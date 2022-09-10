@@ -1,0 +1,525 @@
+*{
+margin :0;
+padding: 0;
+}
+.para1{
+	background:#f0faf8;
+	font-size: 20px;
+	text-indent: 30px;
+	color:black;
+
+}
+.h2
+{
+	color: red;
+	text-indent: 30px;
+	font-family: 'Smooch', cursive;
+}
+#h1
+{
+	font-family: 'Smooch', cursive;
+	font-size: 45px;
+	word-spacing: 5px;
+	letter-spacing: 2px;
+	font-weight: 200%;
+
+	}
+
+.p1
+{
+	color: red;
+	font-family: 'Smooch', cursive;
+}	
+.para2{
+	font-size: 25px;
+	word-spacing: 5px;
+	letter-spacing: 2px;
+	font-weight: 200%;
+}
+#b1{
+	color: white;
+	font-size:25px;
+	text-align: center;
+	margin:3px;
+}
+#l1{
+	color: white;
+}
+.button1
+{
+	border-style: solid;
+	background-color:#FF7373;
+	height: 70px;
+	width:300px;
+	color: white;
+	border-color: #FF7373;
+	}
+	.A1
+	{
+		background: #E9F0D0;
+	}
+
+	#shrid6
+	{
+		font-family: 'Smooch', cursive;
+		font-size: 16px;
+	}
+.div2
+{
+	background-image: url();
+}
+.sh
+{
+	color: grey;
+
+}
+#img1
+{
+	height: 35%;
+	width: 40%;
+	margin-left:120px;
+	margin-top: 35px;
+}
+.para
+{
+	margin-left: 700px;
+	font-family: 'Smooch', cursive;
+	font-size: 35px;
+	border-style: solid;
+	height:400px;
+	width: 400px;
+	border-color: white;
+
+}
+#parae
+{
+	font-size: 20px;
+
+}
+.loda
+{
+background-image: url('https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2021/09/edinah-video-1-2-768x438.png.webp');
+background-repeat: no-repeat;
+height: 100%;
+width: 80%;
+margin-left: 100px;
+background-size: 50%60%;
+background-attachment: scroll;
+}
+.p4
+{
+	font-family: 'Odibee Sans', cursive;
+	font-size: 40px;
+
+}
+.to
+{
+	background-image: url(https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2021/11/Online-Flexible-Illustration-768x423.png.webp);
+	background-repeat: no-repeat;
+	background-size: 40%100%;
+	margin-left: 100px;
+
+}
+#ll
+{
+font-size: 15px;
+font-weight: 40%;
+
+}
+.class1
+{
+	font-family: 'Odibee Sans', cursive;
+	font-size: 25px;
+	font-weight: 150%;
+	margin-left: 600px;
+}
+.class2
+{
+	font-family: 'Odibee Sans', cursive;
+	font-size: 30px;
+	font-weight: 300%;
+}
+.div3
+{
+/*background-image: url(https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2020/04/project-based-768x471.png.webp);*/
+/*margin-left: 900px;*/
+/*width: 50%;*/
+background-size: 40% 100%;
+background-repeat: no-repeat;
+/*background-position: 150% ;*/
+
+}
+
+.div3 > h2, .div3 > p{
+	width: 45%;
+	margin:50px;
+	font-family: 'Odibee Sans', cursive;
+
+}
+.ll
+{
+	font-size: 25px;
+}
+.div3 > img{
+float: right;
+width: 35%;
+margin-right: 40px;
+margin-top: -30%;
+}
+.div4 >img
+{
+height:250px;
+width:400px;
+margin-left: 150px;
+
+}
+.class3{
+	font-family: 'Odibee Sans', cursive;
+	float: right;
+	margin-top: 20px;
+	margin-right: 150px;
+	font-size: 25px;
+	font-weight: 150%;
+}
+.div4>p
+{
+	font-family: 'Odibee Sans', cursive;
+	float:right;
+	width:40%;
+	margin-top: -8%;
+	margin-right: 55px;
+	font-size: 20px;
+}
+.sss{
+	height: 20;
+	
+	width:200px;
+}
+
+.rr{
+
+	font-family: 'Odibee Sans', cursive;
+	font-size: 20px;
+}
+.pp
+{
+	font-family: 'Odibee Sans', cursive;
+	width: 50%;
+	font-size: 20px;
+}
+
+.div7 >img
+{
+	height: 700px;
+	width: 500px;
+	margin-left: 150px;
+}
+.div7 >h1
+{
+font-family: 'Odibee Sans', cursive;
+font-size: 30px;
+	font-weight: 150%;
+	float: right;
+	width:40%;
+}
+.div7 >h2
+{
+	font-family: 'Odibee Sans', cursive;
+font-size: 20px;
+float: right;
+	width:40%;
+	margin-top: -40%;
+}
+#a
+{
+font-family: 'Odibee Sans', cursive;
+font-size: 17px;
+float: right;
+width:30%;
+margin-top: -35%;
+margin-right: 125px;
+}
+.div8>h1
+{
+	font-family: 'Odibee Sans', cursive;
+	text-align: center;
+}
+#id3
+{
+	text-align: center;
+	font-family: 'Odibee Sans', cursive;
+	font-size: 30px;	
+}
+.div9
+{
+	background-color: #E5E7E9 ;
+	margin-right: 130px;
+	margin-left: 130px;
+	height: 400px;
+	width:1100px;
+}
+.div9 >img
+{
+	border-radius: 50%;
+	margin-left: 150px;
+	height: 200px;
+	width: 200px;
+	margin-top: 80px;
+}
+.div9 >h2
+{
+	font-family: 'Odibee Sans', cursive;
+	font-size: 17px;
+	float: right;
+	width: 500px;
+	margin-right: 50px;
+
+}
+.div9 >p
+{
+font-family: 'Odibee Sans', cursive;
+	font-size: 10px;
+	margin-right: 100px;
+	float: right;
+}
+.div10
+{
+	background-color: #E5E7E9 ;
+	
+	margin-left: 130px;
+	height: 350px;
+	width:500px;
+}
+.div10>button
+{
+	font-family: 'Odibee Sans', cursive;
+	border-style: solid;
+	height: 50px;
+	margin-left: 150px;
+	width: 200px;
+}
+.div11
+{
+	background-color: #E5E7E9 ;
+	
+	margin-right:130px;
+	height: 350px;
+	width:500px;
+	float: right;
+	margin-top: -350px;
+}
+.div10>img
+{
+	height: 200px;
+	width: 250px;
+	margin-left: 120px;
+
+}
+.div11>button
+{
+	font-family: 'Odibee Sans', cursive;
+	border-style: solid;
+	height: 50px;
+	margin-left: 150px;
+	width: 200px;
+}
+.div10>p
+{
+	font-size: 20px;
+font-family: 'Odibee Sans', cursive;
+text-align: center;
+}
+.div11>img
+{
+	height: 200px;
+	width: 250px;
+	margin-left: 120px;
+}
+.div11>p
+{
+	font-size: 20px;
+font-family: 'Odibee Sans', cursive;
+text-align: center;
+}
+.h21
+{
+	color: black;
+
+}
+.a1
+{
+	color: lightgreen; 
+}
+.div12>h1
+{
+	text-align: center;
+	font-family: 'Odibee Sans', cursive;
+}
+.div12>h3
+{
+	text-align: center;
+	font-family: 'Odibee Sans', cursive;
+}
+.divv13
+{
+	height: 50px;
+	width: 1000px;
+	background-color: black;
+	margin-left: 150px;
+	margin-right: 100px;
+}
+.divv13>h1
+{
+	text-align: center;
+	font-family: 'Odibee Sans', cursive;
+	margin-bottom:50px;
+	color: white;
+}
+.div14
+{
+	height: 300px;
+	width: 1000px;
+	margin-left: 150px;
+	margin-right: 100px;
+	background-color:#a8c3bc;
+}
+.ol1
+{
+	font-family: 'Odibee Sans', cursive;
+	margin-left: 150px;
+	font-size: 20px;
+}
+.ol2
+{
+	font-family: 'Odibee Sans', cursive;	
+	font-size: 20px;
+	float: right;
+	margin-right: 150px;
+	margin-top: -80px;
+}
+.div14>button
+{
+margin-left: 370px;
+height: 70px;
+width: 250px;
+background-color: #09ea69  ;
+}
+#sff
+{
+	font-family: 'Odibee Sans', cursive;
+	color: white;	
+	font-size: 25px;
+
+}
+.div15
+{
+	background-color:#E5E7E9;
+	margin-left:130px;
+	margin-right:120px;
+	height: 500px;
+
+
+
+
+}
+.div15>h2
+{
+	
+	font-family: 'Odibee Sans', cursive;
+	font-size: 23px;
+	margin-left: 70px;
+
+}
+.div15>p{
+	font-family: 'Odibee Sans', cursive;
+	font-size: 15px;
+	margin-left: 70px;
+    
+}
+.div15>hr
+{
+	margin-left: 70px;
+	margin-right: 70px;
+}
+#h31
+{
+	font-family: 'Odibee Sans', cursive;
+	margin-left: 70px;
+	font-size: 17px;
+}
+#h32
+{
+	font-family: 'Odibee Sans', cursive;
+	margin-left: 270px;
+	font-size: 17px;
+	margin-top: -22px;
+}
+#h33
+{
+	font-family: 'Odibee Sans', cursive;
+	margin-left: 470px;
+	font-size: 17px;
+	margin-top: -23px;
+}
+#h34{
+font-family: 'Odibee Sans', cursive;
+	margin-left: 670px;
+	font-size: 17px;
+	margin-top: -24px;
+}
+.div15>h1
+{
+	font-family: 'Odibee Sans', cursive;
+	font-size: 22px;
+	margin-left: 70px;
+}
+.p11
+{
+	font-family: 'Odibee Sans', cursive;
+	font-size: 15px;
+	margin-left:70px;
+	margin-right: 70px;
+}
+#shrid1
+{
+	font-family: 'Odibee Sans', cursive;
+	margin-left:200px;
+	font-size: 15px;
+	margin-top: -25px;
+}
+#shrid2
+{
+	font-family: 'Odibee Sans', cursive;
+	margin-left:500px;
+	font-size: 15px;
+	margin-top: -20px;
+}
+#shrid3
+{
+	font-family: 'Odibee Sans', cursive;
+	margin-left:700px;
+	font-size: 15px;
+	margin-top : -20px;
+}
+#shrid4
+{
+	font-family: 'Odibee Sans', cursive;
+	margin-left:950px;
+	font-size: 15px;
+	margin-top:-20px;
+}
+.div16>button
+{
+	background-color: #FF7373;
+	float: right;
+	margin-right: 100px;
+	height: 40px;
+	width: 160px;
+	margin-top: -30px;
+}
+#shrid5
+{
+	font-family: 'Odibee Sans', cursive;
+	font-size: 13px;
+	color: white;
+}
